@@ -1,25 +1,14 @@
 body {
-  background-color: #f4f8fb;
-  color: #1f2933;
+  background-color: #f7f3eb;
+  background-image: radial-gradient(#e8dfd1 1px, transparent 1px);
+  background-size: 20px 20px;
+  color: #3e3a36;
 }
 
-/* Sidebar */
 header {
-  background-color: #dbe7f3;
-  padding: 20px;
-  border-radius: 10px;
+  background-color: #e0d6c3;
 }
 
-/* כותרות */
-h1, h2, h3 {
-  color: #102a43;
-}
-
-/* קישורים */
-a {
-  color: #1d4ed8;
-}
-
-a:hover {
-  color: #0b3c91;
+section {
+  background-color: #fffaf3;
 }
