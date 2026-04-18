@@ -10,4 +10,4 @@ layout: default
 
 **B.Sc – Life Science, Ben Gurion University (2005–2008)**  
 
-[⬅ Back to Home](index.html)
+[⬅ Back to Home](index.html) 
