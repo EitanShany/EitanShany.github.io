@@ -1,0 +1,71 @@
+/* ===== Background (main content) ===== */
+.content {
+  background-color: #f7f3eb;
+  background-image: radial-gradient(#e8dfd1 1px, transparent 1px);
+  background-size: 20px 20px;
+  color: #3e3a36;
+}
+
+/* ===== Sidebar ===== */
+.sidebar {
+  background-color: #e0d6c3;
+  border-right: 3px solid #2b4c5c;
+}
+
+/* ===== Text inside sidebar ===== */
+.sidebar h1 {
+  color: #2b4c5c;
+}
+
+.sidebar p {
+  color: #3e3a36;
+}
+
+/* ===== Links ===== */
+.sidebar a {
+  color: #1d3557;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.sidebar a:hover {
+  color: #457b9d;
+}
+
+/* ===== Profile image fix ===== */
+.sidebar img {
+  max-width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #2b4c5c;
+}
+
+/* ===== Content headings ===== */
+.content h1,
+.content h2,
+.content h3 {
+  color: #2c2a28;
+}
+
+/* ===== General spacing improvement ===== */
+.content {
+  padding: 40px;
+}
+
+/* ===== Responsive (mobile) ===== */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 3px solid #2b4c5c;
+  }
+
+  .content {
+    padding: 20px;
+  }
+}
