@@ -5,7 +5,7 @@ layout: default
 # Lab Manager  
 **Weizmann Institute of Science (2024–Present)**
 
-[lab logo](Lab logo-2.jpg)
+![lab logo](Lab logo-2.jpg)
 
 Managed lab operations including procurement, inventory, and coordination with vendors.
 
