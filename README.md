@@ -1,15 +1,20 @@
-Welcome to my site
-
-## Fruit
-
-* Banna
-* Apele
-
+---
+layout: default
 ---
 
-## Animals
+# Welcome
 
-1. dog
-2. cat
+I am a scientist specializing in immuno-oncology and preclinical cancer research.
 
-## windows
+## Experience
+
+- [Lab Manager – Weizmann Institute](experience1.html)
+- [Scientist – NeoTX Therapeutics](experience2.html)
+
+## Education
+
+- [View Education](education.html)
+
+## Publications
+
+- [View Publications](publications.html)
