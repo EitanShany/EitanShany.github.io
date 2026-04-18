@@ -5,7 +5,7 @@ layout: default
 # Scientist  
 **NeoTX Therapeutics (2019–2024)**
 
-![Neotx logo](NeoTx logo.png)
+![Neotx logo](NeoTx_logo.png)
 
 Member of the immuno-oncology research team.
 
