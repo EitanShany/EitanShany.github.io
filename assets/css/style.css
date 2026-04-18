@@ -5,15 +5,24 @@ body {
   color: #3e3a36;
 }
 
-header {
+/* רקע ה-sidebar בלי לשבור layout */
+.wrapper > header {
   background-color: #e0d6c3;
+  padding: 15px;
+  border-radius: 10px;
 }
 
-section {
+/* אזור התוכן */
+.wrapper > section {
   background-color: #fffaf3;
+  padding: 20px;
+  border-radius: 10px;
 }
 
-header img {
+/* תיקון תמונה */
+.wrapper header img {
   max-width: 50%;
   height: auto;
+  display: block;
+  margin: 0 auto;
 }
