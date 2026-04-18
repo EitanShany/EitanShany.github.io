@@ -13,6 +13,3 @@ Welcome to my site
 2. cat
 
 
-[Eitan Shany linkdin](https://www.linkedin.com/in/eitan-shany-ab5b4247/)
-
-![Eitan Shany](20251007_125246.jpg)
