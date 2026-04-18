@@ -12,3 +12,8 @@ header {
 section {
   background-color: #fffaf3;
 }
+
+header img {
+  max-width: 50%;
+  height: auto;
+}
